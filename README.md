@@ -1,6 +1,6 @@
 # shellby - Simple Shell :shell:
 
-A simple UNIX command interpreter written as part of the low-level programming and algorithm track at Holberton School.
+A simple UNIX command interpreter written as part of the low-level programming and algorithm track at ALX Africa.
 
 ## Description :speech_balloon:
 
@@ -294,8 +294,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 **Shellby** emulates basic functionality of the **sh** shell. This README borrows form the Linux man pages [sh(1)](https://linux.die.net/man/1/sh) and [dash(1)](https://linux.die.net/man/1/dash).
 
-This project was written as part of the curriculum for Holberton School. Holberton School is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.holbertonschool.com/).
+This project was written as part of the curriculum for ALX Africa. ALXSE  is a online-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. 
 
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton School logo">
-</p>
+
